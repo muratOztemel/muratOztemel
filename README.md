@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/h1fqB4k)
+![MasterHead]([https://ibb.co/h1fqB4k](https://i.ibb.co/3YzJpjw/Frontend-Developer.jpg))
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
