@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQERgLC1mxs7VA/profile-displaybackgroundimage-shrink_350_1400/0/1692957907610?e=1718841600&v=beta&t=NttMk1NCTLgCeLlofIuCR2IOpiU54tAUeutKcppgBFc)
+![MasterHead](https://ibb.co/h1fqB4k)
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
