@@ -1,4 +1,5 @@
-![FrontendDeveloper](https://github.com/muratOztemel/muratOztemel/assets/31402706/8c99d643-1305-4dd8-8e7f-f2fb3b29d275)
+![FrontendDeveloper1](https://github.com/muratOztemel/muratOztemel/assets/31402706/a437df18-4968-41b8-bbe5-e528a7903488)
+
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
